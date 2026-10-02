@@ -1,0 +1,18 @@
+
+# Personal expense and budget data
+expenses.json
+budget.json
+
+# VS Code local settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment variables
+.env
