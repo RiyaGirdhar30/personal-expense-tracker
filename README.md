@@ -27,15 +27,33 @@ A command-line expense management application built with Python that helps users
 ## 📁 Project Structure
 
 ```text
-ExpenseTracker/
+Expense_Tracker/
+├── screenshots/
+│   ├── main-menu.png
+│   ├── category-chart.png
+│   └── monthly-chart.png
 ├── expense_tracker.py
-├── expenses.json
-├── budget.json
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 The JSON files store your expense records and budget. They may be created when the application first saves data.
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Category-wise Expense Chart
+
+![Category Chart](screenshots/category-chart.png)
+
+### Monthly Expense Chart
+
+![Monthly Chart](screenshots/monthly-chart.png)
+
 
 ## ⚙️ Installation and Setup
 
@@ -49,7 +67,7 @@ The JSON files store your expense records and budget. They may be created when t
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/RiyaGirdhar30/personal-expense-tracker.git
    ```
 
 2. Navigate to the project folder:
